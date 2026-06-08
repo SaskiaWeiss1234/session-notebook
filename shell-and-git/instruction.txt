@@ -1,0 +1,5 @@
+GHow to connect your git repository to your local machine
+Create a new repository in your github account add it to your local machine by 
+git remote add origin <SSH key>
+^X
+
